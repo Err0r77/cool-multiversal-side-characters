@@ -385,71 +385,139 @@ The weapon is basically Sturdy Greatshield but with sawblade attached to it.
 ###ARMORS:
 
 **Bandage**
+
 0 DEF
+
 `[* ...How did you end up being this hurt,]`
+
 `[anyway to be using this?]`
+
 `[* Anyway, reapplying it helps stop bleeding.]`
+
 *Retains what the original bandage does, allowing for near-always success of FLEEing, until you realize it only works against non-boss type UM's and such.*
+
 *Upon unequipped, become consumable. Heals 10 HP upon re-applying.*
+
 *Instantly erases 'Bleeding' status effect or stops a bleeding upon re-applying.*
+
 **Faded Ribbon**
+
 3 DEF
+
 `[* Apparently with this, you tend to seem cuter.]`
+
 `[...Don't expect that to stop UM's, though.]`
+
 *Nothing much happens, unfortunately with this.*
+
 **Manly Bandanna**
+
 7 DEF
+
 `[* Emphasis on the mispell.]`
+
 `[Besides that, it has.. 'Symbol of strength' written on it.]`
+
 *Dialogue changes when at Mid-Part 1 or Chapter 1, no further changes after that, the below here is after the said change has occurred. Due to 'Asterisk' finding out how Human Languages can be.*
+
 `[* Turns out it doesn't matter if you say 'Bandana']`
+
 `[or bandanna. Still has 'Symbol of Strength' written on it.]`
+
 **Old Tutu**
+
 10 DEF
+
 `[* Don't get ahead of yourself.]`
+
 `[Such protective armor like that, while works against magic..]`
+
 `[* Have yet to prove against Physical.]`
+
 **Cloudy Glasses**
+
 5 DEF
+
 `[* Glasses marred with wear, as you can describe it.]`
+
 `[Increases INV by 9. (Be Invulnerable for longer after a hit.)]`
+
 *Can affect how fast KR drains HP. Besides that, retains what cloudy glasses does originally.*
+
 **Stained Apron**
+
 11 DEF
+
 `[* A armor item with natural healing.]`
+
 `[Heals you 1 HP every turn.]`
+
 *Pretty much original kind of Stained Apron.*
+
 **Cowboy Hat**
+
 12 DEF
+
 `[* Decent armor both for defense and attack side.]`
+
 `[Increases ATTACK by 5.]`
+
 *Basically like the original cowboy hat armor item.*
+
 **Heart Locket**
+
 15 DEF
+
 `[* It says "Best Friends Forever."]`
+
 `[You should be able to know who values this a lot here.]`
+
 `[* Beware that it can't help much with physical damage.]`
+
 *Like the Heart Locket in original, becomes 'The Locket' with 99 DEF when found on genocide route.*
+
 *The difference being is that physical damage breaks through this DEF.*
+
 **Temmie Armor**
+
 20 DEF
+
 `[* Surprisingly a armor that works both against Magical]`
+
 `[and against Physical kinds of attacks. You can rely on this.]`
+
 `[* Increases ATK by 10 and INV slightly along with natural healing.]`
+
 `[This means you also gain 1 HP every turn.]`
+
 *Like the original one, increases ATK by 10, increases INV slightly and heals by 1 HP every turn. The difference however is that its DEF actually works against physical damage aswell, making it actually the first armor to be reliable when dealing with Physical and Magical kinds of Damages.*
+
 *Not to mention its healing by 1 HP every turn is also ridiculous, until the realization that HM Frisk is dealing with strong and dangerous UM's anyways, so all that is going to be useful there.*
+
 **Backshield Plating**
+
 25 DEF
+
 `[* Incredibly-useful starting armor,]`
+
 `[gives 3-hit shield to help you live longer.]`
+
 *As the dialogue implies, it gives 3-hit shield, which has no HP however. Only how many hits the said shield can take before going out.*
+
 **Platforms Side Cannons**
+
 45 DEF
+
 `[* It spins for each shot just so]`
+
 `[you can do it again.]`
+
 *[Starts off with one when using FIGHT first time of the fight.]
+
 [Then anymore continous FIGHT usages makes it two shots instead of one.]
+
 [Mostly due to circle component in the side cannons spinning to fire the other cannon and so on.]
+
 [Shot's ATK: 20]*
+
 *[Hidden Property: Reduces speed due to the weight of this thing.]*
