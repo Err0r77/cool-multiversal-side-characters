@@ -17,6 +17,7 @@
 
 *Can be multi-purpose due to being able to be used to ACT through [ITEM].*
 
+
 **Toy Knife**
 
 3 ATK
@@ -26,6 +27,7 @@
 `[monsters are more vulnerable to physical harm after all.]`
 
 *One reticle bar, a bit faster than normal however.*
+
 
 **Tough Gloves**
 
@@ -41,6 +43,7 @@
 
 *Punch Card makes this stronger.*
 
+
 **Ballet Shoes**
 
 7 ATK
@@ -53,6 +56,7 @@
 
 *3 Reticle bars in this.*
 
+
 **Torn Notebook**
 
 2 ATK
@@ -64,6 +68,7 @@
 *2 Reticle bars in this.*
 
 *Can affect how fast KR drains HP.*
+
 
 **Burnt Pan**
 
@@ -81,6 +86,7 @@
 
 *4 Reticle bars in this.*
 
+
 **Empty Gun**
 
 12 ATK
@@ -91,6 +97,7 @@
 
 *Same ability as the original empty gun. High damage if precise reticle in the middle but the reticle also goes very fast too. 4 Reticle bars in this.*
 
+
 **Worn Dagger**
 
 15 ATK
@@ -100,6 +107,7 @@
 *Becomes 'Real Knife' with 99 ATK if to be found on genocide route, however.*
 
 *While surprising for 'Real Knife' 's ATK, the reach still has to be considered when in real combat.*
+
 
 **Enhanced Shield**
 
@@ -115,6 +123,7 @@ Block Effectiveness: High-Massive
 
 *Powerful durability. but in exchange for dealing knockback to its user. the more hits the combo lands on the shield. the more the knockback.*
 
+
 **Curved Dagger**
 
 25 ATK
@@ -129,6 +138,7 @@ Block Effectiveness: Low
 
 *Special ability being to be capable of climbing better than humans would without it.*
 
+
 **Quarter-Staff**
 
 30 ATK
@@ -141,6 +151,7 @@ Block Effectiveness: Low-Medium
 
 *Has 2 modes, either to attack or either to defend. however it defensive mode is only effective against melee's. The ranged attack's damage can only be negated.
 Basically can help with eliminating need for switching from weapon to weapon.*
+
 
 **NEO Blaster**
 
@@ -156,6 +167,7 @@ Block Effectiveness: Low
 
 *The attack button has to be held during dodging, depending on how long that attack was, the attack damage after that would be boosted. it can go as far as to make up A WHOPPING 80% OF THE DARN DAMAGE WITH ONLY 20% BEING NORMAL DAMAGE.*
 
+
 **Mages Staff**
 
 45 ATK
@@ -167,6 +179,7 @@ Block Effectiveness: Low
 Parry Effectiveness: Medium-High
 
 Block Effectiveness: Medium
+
 
 **Heart-Charged Saber**
 
@@ -181,6 +194,7 @@ Parry Effectiveness: Medium
 Block Effectiveness: Medium
 
 *The weapon has a unique ability that changes depending on soul color.*
+
 
 **Metallic Gauntlet**
 
@@ -198,6 +212,7 @@ Block Effectiveness: Medium-High
 
 *When using FIGHT with this, reticles can come from both sides instead and starts slow, but quickly speeds up rapidly.*
 
+
 **Affected Axe**
 
 60 ATK
@@ -211,6 +226,7 @@ Parry Effectiveness: None [Due to flicker.]
 Block Effectiveness: None [Due to flicker.]
 
 *Due to it being a flickering type weapon, it means it can deal extremely scary damage even if it's easy to miss. Counters are most likely to fail against this kind of weapon here.*
+
 
 **Energetic Tank Club**
 
@@ -228,6 +244,7 @@ Block Effectiveness: None
 
 *Upon a successful hit on anything, explodes only once per battle, dealing damage to both side with the target taking heavier damage here.*
 
+
 **Draining Scythe**
 
 70 ATK
@@ -241,6 +258,7 @@ Block Effectiveness: Low-Medium
 *Unique reticles system, instead of rectangle attack box, square attack box. And adds on vertical reticles to it too.*
 
 *Heals the user of said weapon per hit.*
+
 
 **Enhanced SledgeHammer**
 
@@ -256,6 +274,7 @@ Block Effectiveness: Low
 
 *Every successful hit with this weapon guarantees a stagger.*
 
+
 **Titanium Pipe**
 
 80 ATK
@@ -270,6 +289,7 @@ Block Effectiveness: Medium
 
 *Goes up to x20 stun and far range if hit by enhanced sledgehammer.*
 
+
 **Heating Hammer**
 
 85 ATK
@@ -283,6 +303,7 @@ Parry Effectiveness: None-Low
 Block Effectiveness: Low-Medium
 
 *When superheated, become capable of melting the target's weapon upon hit.*
+
 
 **Electricial Lasso**
 
@@ -300,6 +321,7 @@ Block Effectiveness: None
 
 *Inflicts 'Electricified' to target on hit which increases electric damage taken for the said target.*
 
+
 **Uncharged Drill**
 
 95 ATK
@@ -316,6 +338,7 @@ Block Effectiveness: Medium-High
 
 *However, Deadly Greatshield completely levels both of the weapons at attack damage total and especially other purposes anyway.*
 
+
 **Sturdy Greatshield**
 
 100 ATK
@@ -329,6 +352,7 @@ Parry Effectiveness: None
 Block Effectiveness: Massive
 
 *Extremely resilent meant that it won't break from damage, but due to it counting as superheavy, it disables swift movements.*
+
 
 **Deadly Greatshield [THEORIZED GENOCIDE WEAPON]**
 
