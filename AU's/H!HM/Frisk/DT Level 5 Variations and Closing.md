@@ -30,6 +30,7 @@ but it'll become full state if hero starts to receive side effects from being to
 - it weapon also gets enhanced with DT Magic too. making it have red aura as a result.
 
 **STATS:**
+
 HP: 150 [1500 if against a opponent who can beat 150 HP varient easily.]
 
 ATK: depends.
@@ -111,6 +112,7 @@ If it goes enough for anyone to be able to presumably kill HM Frisk's current HP
 - By the end of this state, HM Frisk will end up being extremely tired, needing rest from all this. Hence the side effects above. 
 
 \----------------------------------/
+
 ###DESCRIPTION:
 
 Destiny of their world, with golden heart and has a goal to complete. Since the events of broken time and space, it has improved over time till it can beat UM-1, then UM-2 and so on till late-major UM's. Their appearance may be a bit different or so, but since then it has adapted. And unknowningly to them, they've picked the path that will keep their positivity and their mental state aswell, unlike the rest in the process and completed it too.
