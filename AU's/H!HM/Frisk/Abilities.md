@@ -75,6 +75,7 @@ It'll then result in small sprout on that location.. Then it'll form into flytra
 - [Status in that multiverse council: 'Offense Team' and 'Defense Team'.] 
 
 **Fire Magic**
+
 It also learnt this too, being able to perform fire magic if needed!
 
 - "Fireball" - Focus on the source of anger. [which is someone that it knows and lost in a fight.] And then breath out. Making a pointing gesture aswell. This forms a fireball, can be increased in scale up to large. Overdo this and you will drain yourself out in exchange for terrific attack at massive size.
@@ -123,6 +124,7 @@ Be careful to not blow yourself up with fireball attacks. This magic can deal re
 - No extra info's for now.
 
 **Determination Magic**
+
 This frisk's determination varient is a concentrated one, the more determination it has, the more of a beast it becomes! Keep being more determined and you'll be able to unleash hell quicker and quicker.
 It learnt this from 'hollowtale frisk' with ambition magic that they have.
 
@@ -153,4 +155,5 @@ It learnt this from 'hollowtale frisk' with ambition magic that they have.
 - DT Absorption moves or even DT Extractor can easily disrupt this magic and especially being hard counter to it. Assuming that they're enough to completely stop it.
 
 **ETC: **
+
 In part 3 of HM Frisk.
