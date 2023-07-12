@@ -1,17 +1,18 @@
 ##The Destiny with Golden Heart.
 ##Role: 8th fallen, vital to keep alive till start of chapter 2.
--
+
 ###STATS:
 15 / 15 HP
 LV 1
--
+
 20 ATK [Enhanced Shield gives 20 ATK here.]
 20 DEF [Tem Armor?]
--
+
 SPD: Depends. But without DT Level 5B, UT Frisk's speed. 
--
+
 WEAPON: 'Enhanced Shield'
 ARMOR: Temmie Armor?
+
 ###LIKES:
 - Peace, Positivity / Kindness, Friends, Being cared about, Looking at Good Nature and Helping people. Feeling safe too.
 
