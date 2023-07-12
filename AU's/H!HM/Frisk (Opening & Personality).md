@@ -171,7 +171,3 @@ However, if they remain in DT Level 1 in the fight for too long, stamina consequ
 - They also may have hard times keeping itself away from surrounding hazards such as water when in a fight due to the shield's knockback.
 
 - As due to how Strong Offense Class Attacks that it may perform drains HM Frisk by 25-100%, if HM Frisk ends up using none of them, prepare for a long battle.
-[The music to listen to during this.](https://www.youtube.com/watch?v=ZvLCax9c2Hg)
-**The soul's SYNERGY**
-The souls no longer are stopped from healing by dodging.
-Each hit from HM Frisk now downs all defenses that nullifies their attack, a automatic DEF drop to 0 in another words.
