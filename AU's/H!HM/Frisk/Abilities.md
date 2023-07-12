@@ -3,6 +3,7 @@
 - They drain HM Frisk by 25% or more on use. Making those attacks useless in cases of long battles. 
 
 **Plant Magic**
+
 This frisk has learnt this thanks to tomb, with this, it's capable of following:
 
 - "Flower Stem Growth" - Focus on the flower infront, after reaching good enough concentration, it'll carefully and slowly raise it hand next, keeping the focus. Not sure on what else happens there-
