@@ -46,6 +46,7 @@ SPD: Slightly lower.. But quickly accelerates into high speed when running.
 In this state, it will mess up WAY LESS often. The pattern to beating it is everytime it finishes bombarding it target with attacks is when it starts to regenerate it stamina, take it as your chance to deal damage to it! 
 
 **ADDITIONAL ABILITIES:**
+
 **/ [SPECIAL ATTACKS] \**
 
 - "Determined Fire Piercing I" -
@@ -62,7 +63,9 @@ This attack has 3 uses. The tier uses it by the amount of tier that varient is. 
 It only refills when HM Frisk goes DT Level 5B again after that. Or basically: it's refilled back to 3 for everytime HM Frisk goes to DT Level 5B.
 
 It drops to 0 if HM Frisk leaves the Level 5B state too especially if anything. too.
+
 **\ ------------------ / **
+
 **/ [BUFFED ATTACKS] \**
 
 - "Weapon Enhance" -
