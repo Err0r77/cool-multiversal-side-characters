@@ -129,4 +129,5 @@ They don't like to see what genocide would be like and they are against sufferin
 Quite defensive and even thanks to tomb's training, able to perform magic's. Thanks to the ambition frisk or murderous frisk's training, it DT magic is learnt next. And it seems that there's no end to those things.
 
 For all that can be said is that they'll continue to spare even at the face of death, trying their best to help people's lives to be more bearable and easier to live.
+
 \-----------------------------------------------/ 
