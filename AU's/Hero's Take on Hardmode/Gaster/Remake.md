@@ -1,0 +1,1 @@
+Neutral / Friendly, Difficulty Tier 3, Power 4 > Power 5, AU Traveller

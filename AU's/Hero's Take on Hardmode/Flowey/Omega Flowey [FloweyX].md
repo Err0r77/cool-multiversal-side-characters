@@ -1,3 +1,5 @@
+Neutral, Difficulty Tier 3, Power 6
+
 ##The Abomination.
 ##Role: Powered-Up Evil
 

@@ -1,3 +1,5 @@
+Friendly, Difficulty Tier 1 > Difficulty Tier 3, Power 2 > Power 5, AU Traveller
+
 ##Only an easy monster.
 ##Role: Judge.
 

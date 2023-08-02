@@ -1,0 +1,1 @@
+Friendly, Difficulty Tier 1, Power 2

@@ -1,0 +1,1 @@
+Neutral > Friendly, Difficulty Tier 3, Power 6

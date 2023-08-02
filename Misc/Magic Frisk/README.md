@@ -1,3 +1,5 @@
+Favorite, Friendly, Difficulty Tier 2 > Difficulty Tier 3, Power 3 > Power 4, AU Traveller
+
 ##Determined, magical semi-human being.
 ##Role: 8th fallen.
 

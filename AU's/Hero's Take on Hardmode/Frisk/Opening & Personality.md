@@ -1,3 +1,5 @@
+Favorite, Friendly, Difficulty Tier 3, Power 3, AU Traveller
+
 ##The Destiny with Golden Heart.
 ##Role: 8th fallen, vital to keep alive till start of chapter 2.
 

@@ -1,3 +1,5 @@
+Friendly > Neutral, Difficulty Tier 2 > Difficulty Tier 3, AU Follower, Power 2 > Power 3 > Power 4
+
 ##S1: Determined yet Curious Child. S2: The Ambassador.
 ##Role: 8th fallen.
 
