@@ -1,0 +1,8 @@
+A experimental idea made by CA: The Unyielding Creator, with sole purpose of being most indestructible one in entire existence. Having been granted to massive arsenal of abilities for combat purposes aswell were it get into one. Although on the inside it just wants to be fair, usually going around with it HP existing. But were it be pushed enough, it'll do the very thing it's made for, becoming absolutely indestructible and going as far as to perform extremely, overwhelmingly powerful shenanigans.
+One hell of a creation currently known in existence made by the unyielding creator, the ones below it being Halloween Boss Fight, 2 Frisk script's and ALTERNATEHERO.
+The closest script's known to come close to match this would be 'Lost Soul'. But it's only matter of time till that script's weakness gets discovered and gets exploited to it advantage.
+
+Possibly the strongest creation made by CA up to this day, of which it lives up to really well.
+But it hesitation to go all out makes it lose most fight's that it goes fair on. A potential mental disadvantage if it isn't respected for it capability. [Even if it is told to go all out anyways, it won't really give it their all.]
+
+IF BY ANY MEANS, THE EXPERIMENTAL IDEA SUFFERS MENTAL BREAKDOWN AND LEADS TO GOING ROGUE, DIVINE-RARITY WOULD ARM THE ABILITY GIVEN TO THEM IN CASE OF SUCH CASES WERE IT TO SUDDENLY HAPPEN, EFFECTIVE IN STOPPING THE CHAIN REACTION LIKE THIS.
