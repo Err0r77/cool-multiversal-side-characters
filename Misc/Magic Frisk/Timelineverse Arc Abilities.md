@@ -39,22 +39,62 @@ Literally becomes "Celestial Power Retrieval", can also be used to absorb celest
 Magic Frisk can make a part of their body glow purple, making it several hundred times stronger as a result till the said purple glow effect ends.
 Might aswell be able to send a whole continent to hell due to the fact that their physical strength can be increased by that much.
 
-### Enhanced Vortex Shot
+### Vortex Shot
 Same as the standard one, aside from obvious upgrades such as explosive power of it, capable of affecting beams now.
 That's all there is to it.
 
-### Efficient Reverse-Vortex Barrier
+### Reverse-Vortex Barrier
 It's literally just the same thing but decreased drain in magic.
+
+### Piercing Accelerator
+Now it leaves behind a trail that can be detonated into a large slash line.. As if
+getting hit and wounded once wasn't enough already.
 
 ### Bouncing Piercer
 It's literally a stronger version.
 
-### Enhanced Auto Light Defense
+### Auto Light Defense
 Upon activation, causes a flashbang AND is now capable of affecting semi-high or semi-heavy projectiles to detonate,
 making heavy projectiles and above the only ones unable to be affected by being detonated.
 
 ### Burst Pulse / Pulse
 Same as the above, stronger version. Although Burst Pulse - 5 would level the whole tectonic plate most likely.
+
+### Shining Burst
+Explodes in 'layers', the deeper the target is towards the center of said layer, the more devastating the damage is.
+
+### Cannon Dance
+FOR EVERY SINGLE IMPACT OF ITS PROJECTILE, CREATE A SMALL ENERGY PILLAR!
+
+### Shining Healer
+Delivers a defense buff as a package now!
+
+### Complete Healing Wave
+Now delivers attack AND defense buff in one package with the healing!
+
+### Shining Strike
+"get stardust poisoned", on hit.
+
+### Magic Vent
+Makes the area surrounding Magic Frisk more unstable!
+
+### Rapid Hit Rotation
+Mash two moves together and you got a setup attack that can deal BIG poisoning to people that gets too close to it-
+
+### Magic Mine
+B i g  k a b o o m !
+
+### Magic AoE Mine
+Greatly increases gravity in its area before blowing up to make it harder to avoid, upon activation!
+
+### Magic Flare
+5 Knockback pulses before exploding!
+
+### Stick-Assisted Forcefield
+The forcefield gains the benefit of uniquely shaping itself, allowing for a spike stab!
+
+### Stick-Assisted Accelerator
+The projectile's HECKING FULL OF HEAT OF A GOSHDARN NEUTRON STAR!
 
 ### [SR!] CATEGORY 10 MAGIC HURRICANE
 Magic Frisk makes use of their vortex shots in enhanced form before then blasting a overload beam or ray,
