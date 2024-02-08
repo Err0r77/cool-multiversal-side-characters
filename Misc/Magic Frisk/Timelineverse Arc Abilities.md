@@ -39,6 +39,27 @@ Literally becomes "Celestial Power Retrieval", can also be used to absorb celest
 Magic Frisk can make a part of their body glow purple, making it several hundred times stronger as a result till the said purple glow effect ends.
 Might aswell be able to send a whole continent to hell due to the fact that their physical strength can be increased by that much.
 
+### Enhanced Vortex Shot
+Same as the standard one, aside from obvious upgrades such as explosive power of it, capable of affecting beams now.
+That's all there is to it.
+
+### Efficient Reverse-Vortex Barrier
+It's literally just the same thing but decreased drain in magic.
+
+### Bouncing Piercer
+It's literally a stronger version.
+
+### Enhanced Auto Light Defense
+Upon activation, causes a flashbang AND is now capable of affecting semi-high or semi-heavy projectiles to detonate,
+making heavy projectiles and above the only ones unable to be affected by being detonated.
+
+### Burst Pulse / Pulse
+Same as the above, stronger version. Although Burst Pulse - 5 would level the whole tectonic plate most likely.
+
+### [SR!] CATEGORY 10 MAGIC HURRICANE
+Magic Frisk makes use of their vortex shots in enhanced form before then blasting a overload beam or ray,
+thus creating a extremely deadly form of magic hurricane, destroying absolutely everything in its radius.
+
 ## TRUE CELESTIAL FORM AND CELESTIAL FORM'S POTENTIAL CONCEPT
 > [!NOTE]
 > This is the current concept as of now, but never was seen in action, so it may or may not be official to the timelineverse info.
