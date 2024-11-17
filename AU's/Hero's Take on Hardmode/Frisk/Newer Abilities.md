@@ -100,3 +100,10 @@ Considering the build up is part of it, punch literally anything for it to be ca
 Essentially boosted version of melee. few hits can literally knock out a average person.
 And one average strike with it from HM Frisk or usual when boosted, would destroy a training dummy instantly.
 A slightly held back or a bit held back one with boosts is also enough to deal a dislocation to a person with slightly more durability than average person too.
+
+
+
+**Free DT Magic**
+
+Freely usable DT Magic basically.
+Unknown for now, taught by TombFellShift.
